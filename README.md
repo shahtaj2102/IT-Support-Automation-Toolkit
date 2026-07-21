@@ -17,7 +17,7 @@ To be clear on originality: I learned the underlying Active Directory, Microsoft
 | Get-DiskHealthReport.ps1 | Disk-space and system-health report generator | Planned |
 | Parse-EventLog.ps1 | Basic Windows event log parser | Planned |
 
-This table gets updated as each script actually ships, check commit history for real, current progress rather than relying on this status column alone.
+This table gets updated as each script actually ships; check commit history for real, current progress rather than relying on this status column alone.
 
 ## Environment used to build and test these
 
